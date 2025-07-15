@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179831199318",
+    "project_id": "zpo-egzamin",
+    "storage_bucket": "zpo-egzamin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179831199318:android:044a5ffc8dcc9512488df7",
+        "android_client_info": {
+          "package_name": "com.example.zpo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7XO4iNtRUiI0i1PufCBWOJltaeDRh6Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
